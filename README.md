@@ -1,5 +1,5 @@
-## ▶️ Open in Google Colab
-https://colab.research.google.com/drive/1vgdJ1CJzeJopYFOsIyeECblnXl2OI5in#scrollTo=BKqri1Y-sifh
+## ▶️ Open Notebook
+https://github.com/AarishAijaz/iris-analysis/blob/main/iris-analysis.ipynb
 
 # 🌸 Iris Dataset Analysis
 
