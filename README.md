@@ -1,6 +1,5 @@
-## ▶️ View Notebook Online
-You can open the notebook here:
-https://nbviewer.org/
+## ▶️ Open in Google Colab
+https://colab.research.google.com/drive/1vgdJ1CJzeJopYFOsIyeECblnXl2OI5in#scrollTo=BKqri1Y-sifh
 
 # 🌸 Iris Dataset Analysis
 
