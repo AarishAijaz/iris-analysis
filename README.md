@@ -1,5 +1,5 @@
 ## ▶️ Open Notebook
-https://github.com/AarishAijaz/iris-analysis/blob/main/iris-analysis.ipynb
+https://github.com/AarishAijaz/iris-analysis/blob/main/iris_analysis.ipynb
 
 # 🌸 Iris Dataset Analysis
 
